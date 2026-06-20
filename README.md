@@ -1,5 +1,8 @@
 # Tempo Scroll (Work in progress)
 
+
+<video src="https://github.com/user-attachments/assets/d247a213-bab2-464b-abab-5800edf1953c" autoplay loop muted playsinline></video>
+
 A beat-synced PDF score reader for musicians who want to keep their eyes on the music, not the scroll bar.
 
 Open a PDF sheet music file, set your tempo, and Tempo Scroll holds the current system steady — then jumps to the next line exactly when the bar ends. No scrambling to find your place mid-phrase.
